@@ -3,7 +3,7 @@
 #### This is a project based on Language C.
 
 [1. My Library](https://github.com/KimUJin3359/My_library)
-- This is a project making my own Library
+- This is a project making my own Library with 43 related functions
 
 [2. My fgets](https://github.com/KimUJin3359/My_fgets)
 - This is a project making my own fgets named get_next_line
